@@ -181,8 +181,8 @@ ul {
 }
 @media(max-width:410px){
   .logo{
-    height: 700px;
-    width: 700px;
+    height: 70px;
+    width: 70px;
   }
   .nlink{
     font-size: 0.6rem;
